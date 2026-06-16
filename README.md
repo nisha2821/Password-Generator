@@ -35,3 +35,9 @@ A Python project that generates strong random passwords.
 Enter password length: 10
 
 Generated Password: K7@aP2#mQ9
+
+## Author
+
+Nisha
+
+Aspiring Cybersecurity and Python Developer
